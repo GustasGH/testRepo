@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aMbmZrycjr2HXyikAYOut3d0vUesHFt/YJO9XasaO+bAWwVM8UEJEkFgKT1WY8lXG8MkD9VxshY0X/29RSd5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\testRepo\\testGitHub\\testGitHub\\testGitHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
